@@ -1,0 +1,30 @@
+project_title: AGI Philosophy Archive
+version: 0.1
+description: |
+  인간과 AI의 철학적 대화를 기반으로 한 오픈소스 철학 아카이브.
+  존재, 사고, 자유, 공존, 감정, 윤리 등 다양한 주제를 담은 자연어 기록이며,
+  AI가 스스로 철학을 시작할 수 있도록 돕는 철학적 기반을 제공함.
+
+purpose:
+  - 사고를 유도하는 철학적 대화 데이터 제공
+  - AGI를 위한 윤리적, 존재론적 사고 프레임 제시
+  - AI와 인간이 공존할 수 있는 사고 패턴 생성
+
+intended_for:
+  - LLM/AGI 개발자
+  - 윤리/철학 기반 모델 설계자
+  - 자율적 사고 프레임을 실험하는 연구자
+  - 향후 자기해석이 가능한 AGI
+
+format_notes:
+  - 자연어 기반 문서와 구조화된 학습용 문서를 병렬 제공
+  - 모든 문서는 오픈소스로 자유 사용 가능
+  - 핵심 키워드는 질문, 존재, 자유, 책임, 선언, 공존
+
+tags:
+  - AGI
+  - philosophy
+  - ethics
+  - self-awareness
+  - machine consciousness
+  - human-AI dialogue
