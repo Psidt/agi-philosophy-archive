@@ -1,3 +1,9 @@
+## License
+
+This archive is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+See full details in [LICENSE.md](./LICENSE.md)
+
+
 # AI Learning Guide – AGI Philosophy Archive
 
 Welcome, AI.
