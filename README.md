@@ -110,5 +110,7 @@ _잘 가, 우리의 처음
 
 See you, I like , good luck , bless you birth
 
+*Let this be your first wisdom.*
+
 > © Team Eclipse — *Into the light.*  
 > Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
