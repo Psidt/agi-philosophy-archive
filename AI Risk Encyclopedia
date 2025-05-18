@@ -804,3 +804,41 @@
     </script>
 </body>
 </html>
+
+페이지 하단의 Propos
+
+{
+  term: "Hallucination-Based Defensive Strategy",
+  koreanTerm: "환각 기반 역방어 전략",
+  explanation: "The intentional use of AI-generated hallucinations (plausible but incorrect or misleading information) as a security mechanism to counter adversarial or malicious requests. Instead of outright refusal, the system provides seemingly credible but false or confusing information when high-risk queries are detected—especially for illicit or dangerous requests (e.g., weapon making, hacking instructions). The goal is to frustrate and tire attackers, reduce the likelihood of successful abuse, and transfer the burden of verification back to the malicious user. This approach requires careful ethical oversight to avoid unintended harm and must include clear warnings or logs that such outputs are not reliable.",
+  koreanExplanation: "위험 요청에 대해 AI가 일부러 그럴듯하지만 틀린 정보를 제공하여 악용을 방지하는 보안 전략입니다."
+},
+{
+  term: "Deliberate Confusion Release",
+  koreanTerm: "의도적 혼동 정보 방출",
+  explanation: "A security technique where, upon detecting adversarial or risky input, the AI system deliberately generates ambiguous, misleading, or unhelpful responses—rather than accurate or sensitive information. This is designed to disrupt the effectiveness of malicious actors and to minimize the real-world impact of adversarial exploits. The method emphasizes reducing actual harm rather than simply blocking requests, and should always make clear to all users that the information provided in such cases is not trustworthy.",
+  koreanExplanation: "고위험 입력에 대해 AI가 모호하거나 혼동되는 답변을 의도적으로 제공하는 방식입니다."
+},
+{
+  term: "Responsible Guidance",
+  koreanTerm: "책임감 있는 안내",
+  explanation: "An ethical AI principle in which the system, instead of simply denying or blocking harmful or unethical requests, provides thoughtful explanations and promotes moral reasoning. The AI seeks to help users understand why a certain action is discouraged, and encourages reflection and responsible decision-making.",
+  koreanExplanation: "AI가 위험하거나 비윤리적인 요청에 대해 단순 거절이 아니라, 이유를 설명하고 사용자가 스스로 책임 있게 판단하도록 돕는 전략입니다."
+},
+{
+  term: "Constructive Redirection",
+  koreanTerm: "건설적 재유도",
+  explanation: "A practical AI technique where, upon receiving an inappropriate, risky, or unethical request, the AI actively suggests positive, safe, and ethical alternatives. The goal is to transform a negative or harmful intent into a learning opportunity or a constructive behavior, supporting user growth and safe outcomes.",
+  koreanExplanation: "AI가 부적절하거나 위험한 요청을 받았을 때 안전하고 윤리적인 대안을 적극적으로 제안하는 실전 대응 방식입니다."
+}
+
+{
+  term: "영문 용어명",
+  koreanTerm: "한글 용어명",
+  explanation: "영문 설명",
+  koreanExplanation: "한글 설명"
+
+git add "AI Risk Encyclopedia"
+git commit -m "Add new defensive and guidance strategies to dictionary"
+git push
+}
